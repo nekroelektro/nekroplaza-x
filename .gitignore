@@ -41,3 +41,12 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+typings
+app/**/*.js
+app/**/*.map
+app/npm-debug.log
+npm-debug.log
+node_modules
+jspm_packages
+bower_components
